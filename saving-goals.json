@@ -1,0 +1,35 @@
+[
+  {
+    "id": "g1",
+    "familyId": "FamiliaSantander",
+    "title": "Vacaciones en el sur",
+    "description": "Ahorro para viajar a Puerto Varas en verano.",
+    "targetAmount": 1200000,
+    "currentAmount": 400000,
+    "createdAt": "2025-07-14T14:00:00Z",
+    "dueDate": "2026-01-15T00:00:00Z",
+    "status": "active",
+    "createdBy": "u1",
+    "contributions": [
+      { "userId": "u1", "amount": 200000, "date": "2025-07-01T13:10:00Z" },
+      { "userId": "u2", "amount": 100000, "date": "2025-07-07T09:00:00Z" },
+      { "userId": "u3", "amount": 100000, "date": "2025-07-10T17:30:00Z" }
+    ]
+  },
+  {
+    "id": "g2",
+    "familyId": "FamiliaSantander",
+    "title": "Computador nuevo",
+    "description": "Compra de notebook para Felipe.",
+    "targetAmount": 800000,
+    "currentAmount": 250000,
+    "createdAt": "2025-06-12T10:30:00Z",
+    "dueDate": "2025-12-31T00:00:00Z",
+    "status": "active",
+    "createdBy": "u1",
+    "contributions": [
+      { "userId": "u3", "amount": 150000, "date": "2025-07-03T14:20:00Z" },
+      { "userId": "u1", "amount": 100000, "date": "2025-07-04T08:15:00Z" }
+    ]
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "u1",
+    "name": "Daniel",
+    "lastName": "Santander",
+    "email": "daniel@familia.com",
+    "password": "12345678",
+    "role": "familyHead"
+  },
+  {
+    "id": "u2",
+    "name": "Carla",
+    "lastName": "Muñoz",
+    "email": "carla@familia.com",
+    "password": "password1",
+    "role": "familyMember"
+  },
+  {
+    "id": "u3",
+    "name": "Felipe",
+    "lastName": "González",
+    "email": "felipe@familia.com",
+    "password": "password2",
+    "role": "familyMember"
+  }
+]
